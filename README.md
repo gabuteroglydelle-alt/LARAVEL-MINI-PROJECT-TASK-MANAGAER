@@ -1,1 +1,11 @@
 # LARAVEL-MINI-PROJECT-TASK-MANAGAER
+
+##PROJECT INFORMATION
+
+Student Name: GLYDELLE GABUTERO
+
+Course & Year: BSIT 2 SEC 5
+
+Database Used:
+
+Features:
