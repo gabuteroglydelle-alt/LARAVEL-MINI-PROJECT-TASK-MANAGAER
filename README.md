@@ -27,4 +27,6 @@
 4. Blade Views (`resources/views/tasks/`) display the task list, add form, and edit form to the user.
 
 ## Screenshots
-_(Add screenshots of your Task Manager pages here)_
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6ac76da3-4610-434b-98c1-4704f584a170" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9b81e04e-94e9-4293-b1da-f2326bcc89a5" />
+
